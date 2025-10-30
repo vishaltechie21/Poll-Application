@@ -22,6 +22,7 @@ A simple poll voting app with a **React + Vite frontend** and an **Express backe
 ### 🧰 Tooling
 - **Package manager:** npm  
 - **Recommended Node.js version:** v18+ (latest LTS)
+- **AI Tool:** Github Copilot
 
 ---
 
@@ -36,4 +37,5 @@ Make sure Node.js (v18 or newer) and `npm` are installed and available in your P
 cd Server
 npm install
 npm start
+
 
