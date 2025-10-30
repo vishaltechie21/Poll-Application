@@ -1,6 +1,6 @@
-# 🗳️ Poll Application
+f# 🗳️ Poll Application
 
-A simple polling app with a **React + Vite frontend** and an **Express backend** that persists data to a JSON file.
+A simple poll voting app with a **React + Vite frontend** and an **Express backend** that persists data to a JSON file.
 
 ---
 
@@ -36,3 +36,4 @@ Make sure Node.js (v18 or newer) and `npm` are installed and available in your P
 cd Server
 npm install
 npm start
+
