@@ -38,4 +38,7 @@ cd Server
 npm install
 npm start
 
+<img width="482" height="322" alt="image" src="https://github.com/user-attachments/assets/e9c266ca-0b85-424e-b105-97d9999a276f" />
+<img width="916" height="576" alt="image" src="https://github.com/user-attachments/assets/129cecd5-b9ee-472d-96fd-2eba382d1f4f" />
+
 
